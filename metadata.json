@@ -1,0 +1,8 @@
+{
+  "name": "Remix DeepBrain AIOps 数智运维总览平台",
+  "description": "企业级 AIOps 数智运维系统总览看板，涵盖基础建模能力、AIOps场景架构、模型监控、智能异常预测、告警收敛及算法族全景。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
